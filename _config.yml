@@ -52,8 +52,8 @@ features                                  :
     fontawesome_icon_name                 : arrow-up-from-bracket
 
   - title                                 : Widgets
-    description                           : "if you're feeling a little nostalgic, our Home Screen widget will give you a random quote from your collection. It's like having a little piece of your children with you all the time, right on your phone's home screen".
-    fontawesome_icon_name                 : gauge
+    description                           : "if you're feeling a little nostalgic, our Home Screen widget will give you a random quote from your collection. It's like having a little piece of your children with you all the time, right on your phone's home screen."
+    fontawesome_icon_name                 : square-plus
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
